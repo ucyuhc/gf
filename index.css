@@ -1,0 +1,333 @@
+.zag {
+
+    position: absolute;
+width: 245px;
+height: 25px;
+left: 25px;
+top: 23px;
+
+/* Desktop headers/h4 heading */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+white-space: nowrap;
+
+letter-spacing: 0.25px;
+
+color: #000000;
+
+
+}
+
+
+.img {
+
+    
+position: absolute;
+width: 1023px;
+height: 652px;
+left: 15px;
+top: 100px;
+}
+
+
+.dfd {
+
+    position: absolute;
+width: 550px;
+height: 24px;
+left: 25px;
+top: 740px;
+
+/* Image caption */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: -0.025em;
+
+/* Font colours/Body text */
+
+color: #333333;
+}
+
+
+
+
+.samp {
+
+    position: absolute;
+width: 245px;
+height: 25px;
+left: 377px;
+top: 790px;
+white-space: nowrap;
+/* Desktop headers/h4 heading */
+
+font-family: 'KingsBureauGrot';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+
+
+}
+
+
+
+.klk {
+
+    position: absolute;
+width: 1023px;
+height: 652px;
+left: 15px;
+top: 860px;
+}
+
+
+
+
+.rtr {
+
+
+    white-space: nowrap;
+
+
+    position: absolute;
+width: 240px;
+height: 25px;
+left: 760px;
+top: 1550px;
+
+/* Desktop headers/h4 heading */
+
+font-family: 'KingsBureauGrot';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+
+}
+
+.kjll {
+
+    position: absolute;
+width: 766.99px;
+height: 489.52px;
+left: 138.5px;
+top: 1600px;
+}
+
+.uyio {
+
+    position: absolute;
+width: 551px;
+height: 24px;
+left: 236px;
+top: 2080px;
+
+/* Image caption */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: center;
+letter-spacing: -0.025em;
+
+/* Font colours/Body text */
+
+color: #333333;
+}
+
+
+
+
+.fdg {
+
+    position: absolute;
+    width: 240px;
+    height: 25px;
+    left: 377px;
+    top: 2130px;
+    white-space: nowrap;
+    /* Desktop headers/h4 heading */
+    
+    font-family: 'KingsBureauGrot';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+    
+    letter-spacing: 0.25px;
+    
+    color: #000000;
+
+}
+
+
+
+
+.asa {
+
+    position: absolute;
+width: 766.99px;
+height: 489.52px;
+left: 138.5px;
+top: 2170px;
+
+}
+
+
+.fmo {
+
+    position: absolute;
+width: 244px;
+height: 25px;
+left: 24px;
+top: 2700px;
+white-space: nowrap;
+/* Desktop headers/h4 heading */
+
+font-family: 'KingsBureauGrot';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+}
+
+
+
+.kas {
+
+    position: absolute;
+width: 1453px;
+height: 237px;
+left: 10px;
+top: 2750px;
+}
+
+.nbv {
+
+
+    position: absolute;
+width: 558px;
+height: 24px;
+left: 24px;
+top: 2980px;
+
+/* Image caption */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: -0.025em;
+
+/* Font colours/Body text */
+
+color: #333333;
+}
+
+
+
+
+
+.laq {
+
+    position: absolute;
+width: 104px;
+height: 25px;
+left: 24px;
+top: 3060px;
+
+/* Desktop headers/h4 heading */
+
+font-family: 'KingsBureauGrot';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+}
+
+
+.yas {
+
+    position: absolute;
+width: 398px;
+height: 260px;
+left: 30px;
+top: 3100px;
+}
+
+
+.fla {
+
+    position: absolute;
+width: 132px;
+height: 25px;
+left: 436px;
+top: 3430px;
+white-space: nowrap;
+/* Desktop headers/h4 heading */
+
+font-family: 'KingsBureauGrot';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+}
+
+
+
+
+.nmn {
+
+    position: absolute;
+left: 436px;
+right: 42.68%;
+top: 3500px;
+bottom: 0.81%;
+
+background: url(image);
+border-radius: 100px;
+}
